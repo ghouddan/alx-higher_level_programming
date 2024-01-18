@@ -2,5 +2,4 @@
 
 if __name__ == '__main__':
     import variable_load_5.py a
-    copy = a
-    print("{}".format(copy))
+    print("{}".format(a))
